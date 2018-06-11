@@ -4,7 +4,7 @@ body {
 	height: 100%;
 	margin: auto;
 	font-family: arial;
-	background: linear-gradient(to bottom right, green, blue);
+	background: linear-gradient(to bottom right, green, yellow);
 }
 
 h2{		
@@ -17,7 +17,7 @@ h2{
 
 	display: flex;
 	align-items: center;
-}
+	
 			
 .btn-primary{
 	width: 30%;
