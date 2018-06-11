@@ -4,6 +4,7 @@ body {
 	height: 100%;
 	margin: auto;
 	font-family: arial;
+	background: linear-gradient(to bottom right, green, blue);
 }
 
 h2{		
